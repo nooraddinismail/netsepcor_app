@@ -1,0 +1,3 @@
+signature,pattern,severity
+arp_spoofing,duplicate_mac,high
+ddos_attack,high_tcp_rate,high
